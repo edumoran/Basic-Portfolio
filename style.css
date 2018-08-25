@@ -1,6 +1,6 @@
 body {
     font-family: 'Georgia', Times New Roman, Times, serif;
-    background-image: url(background.png);
+    background-image: url(assets/images/wavy-dots.png);
     background-repeat: repeat;
 }
 
@@ -100,6 +100,10 @@ p {
     color: #777777;
 }
 
+.proyects {
+    float: left;
+}
+
 form {
     clear: both;
     line-height: 150%;
@@ -138,21 +142,7 @@ input[type="submit"] {
     color: white;
     text-align: center;
 }
-
-.gallery {
-    clear: both;
-    background-color: white;
-    width: 960px;
-    height: 1100px;
-    margin: 0 auto;
-    margin-top: 100px;
-    border: 1px solid #dddddd;
-}
-
-.proyects {
-    float: left;
-}
-
+ 
 footer {
     clear: both;
     color: white;
