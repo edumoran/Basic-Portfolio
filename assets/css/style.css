@@ -95,11 +95,12 @@ li a{
 
 h2 {
     font-family: 'Georgia', Times New Roman, Times, serif;
-    font-size: 25px;
+    font-size: 30px;
     color: #4aaaa5;
     padding: 25px;
     margin-top: 0px;
     margin-bottom: 0px;
+    font-weight: 700;
 }
 
 .horizontal-line {
